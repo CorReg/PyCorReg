@@ -1,0 +1,7 @@
+README.md
+setup.py
+CorReg/__init__.py
+CorReg.egg-info/PKG-INFO
+CorReg.egg-info/SOURCES.txt
+CorReg.egg-info/dependency_links.txt
+CorReg.egg-info/top_level.txt

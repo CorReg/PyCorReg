@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: CorReg
+Version: 0.0.1
+Summary: The Concept, the Method, the Power
+Home-page: http://www.correg.org
+Author: Clément Thery
+Author-email: corregeous@correg.org
+License: UNKNOWN
+Description: The Concept, the Method, the Power
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: CEA CNRS Inria Logiciel Libre License, version 2.1 (CeCILL-2.1)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Description-Content-Type: text/markdown
