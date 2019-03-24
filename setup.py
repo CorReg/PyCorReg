@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="CorReg",
-    version="0.0.1",
+    version="0.0.2",
     author="Clément Thery",
     author_email="corregeous@correg.org",
     description="The Concept, the Method, the Power",
@@ -19,4 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
         "Topic :: Scientific/Engineering :: Mathematics",
     ],
+	install_requires=[
+          'pyttsx3',
+      ]
 )
